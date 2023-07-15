@@ -1,9 +1,8 @@
-**YouTube Video Object Tracking
-**
+**YouTube Video Object Tracking**
 Python script for tracking objects in a YouTube video using various tracking algorithms provided by OpenCV.
 
-**Required Libraries:
-**youtube-dl: pip install youtube-dl
+**Required Libraries:**
+youtube-dl: pip install youtube-dl
 pytube: pip install pytube
 OpenCV (headless version): pip install opencv-python-headless
 OpenCV (contrib version): pip install opencv-contrib-python
