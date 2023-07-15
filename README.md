@@ -3,12 +3,17 @@
 Python script for tracking objects in a YouTube video using various tracking algorithms provided by OpenCV.
 
 **Required Libraries:**
-
-youtube-dl: pip install youtube-dl
-pytube: pip install pytube
-OpenCV (headless version): pip install opencv-python-headless
-OpenCV (contrib version): pip install opencv-contrib-python
-
+```
+pip install -r requirements.txt
+```
+from venv:
+```
+# Create a virtual environment
+python3 -m venv env
+# Activate the virtual environment
+source env/bin/activate
+pip install -r requirements.txt
+```
 **Usage**
 
 1.Clone this repository or download the script file.
