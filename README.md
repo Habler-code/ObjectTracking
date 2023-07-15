@@ -9,9 +9,9 @@ pip install -r requirements.txt
 from venv:
 ```
 # Create a virtual environment
-python3 -m venv env
+python3 -m venv <venvname>
 # Activate the virtual environment
-source env/bin/activate
+.\<venvname>\Scripts\activate
 pip install -r requirements.txt
 ```
 **Usage**
